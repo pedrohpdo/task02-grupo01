@@ -44,8 +44,7 @@ NOME-DO-FILME / IMAGEM / DESCRIÇÃO
 **Member 6**
    - **Nome:** [Pedro Oliveira](https://github.com/pedrohpdo)
    - **Favorite Movie:** Interesestellar
-<div align="center">
-   <img alt="github" src="[https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white](https://media.discordapp.net/attachments/1179079260821008485/1184575587709354034/R.png?ex=658c78fc&is=657a03fc&hm=6c6fa67444e9bd6dcf75c41c3840bbae0d0c8e2ceae52712224afe9ff42e75a3&=&format=webp&quality=lossless&width=702&height=468)https://media.discordapp.net/attachments/1179079260821008485/1184575587709354034/R.png?ex=658c78fc&is=657a03fc&hm=6c6fa67444e9bd6dcf75c41c3840bbae0d0c8e2ceae52712224afe9ff42e75a3&=&format=webp&quality=lossless&width=702&height=468">
-</div>
+   <img alt="github" src="./assets/inter.png">
+
 
 Let's add some sparkle to our code journey! ✨✨✨
