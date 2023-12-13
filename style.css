@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container>div {
+  padding: 10px;
+  background-color: #cccccc4d;
+
+  border-radius: 12px;
+}
