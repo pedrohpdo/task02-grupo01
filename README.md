@@ -1,4 +1,4 @@
-![image](https://github.com/pedrohpdo/task02-grupo01/assets/78767627/cd93b207-d36a-4fff-b757-ece6f8247a60)<div align="center">
+<div align="center">
    <img alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
    <img alt="github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
 </div>
@@ -19,32 +19,36 @@ NOME-DO-FILME / IMAGEM / DESCRIÇÃO
 
 ## 👥 **Members**
 
-## [Italo Lacerda](https://github.com/ItaloLacerda)
-### Nome: 
+## [Pedro Bersch](https://github.com/PedroBersch) | Oppenheimer
+<div>
+    <img src="./assets/oppenheimer.jpg" alt="img-fluxo">
+</div>
 
-  - **Branch:** [🌟 feat-insert-description-italo](https://github.com/Luizfdarb/task01-grupo01/tree/feat-insert-description-italo)
-  - **Favorite Movie:** 
-   
-**Member 2**
-   - **Nome:** [Gregori Nunes](https://github.com/gregsnn)
-   - **Favorite Movie:**
-     
-**Member 3**
-   - **Nome:** [Vitor Colombo](https://github.com/VitorColombo)
-   - **Favorite Movie:**
-   - 
-**Member 4**
-   - **Nome:** [Pedro Bersch](https://github.com/PedroBersch)
-   - **Favorite Movie:**
-   - 
-**Member 5**
-   - **Nome:** [Luiz Fellipe](https://github.com/Luizfdarb)
-   - **Favorite Movie:**
-   - 
-**Member 6**
-   - **Nome:** [Pedro Oliveira](https://github.com/pedrohpdo)
-   - **Favorite Movie:** Interesestellar
-   <img alt="github" src="./assets/inter.png">
+## [Pedro Pereira](https://github.com/pedohpdo) | Interestellar
+<div>
+    <img src="./assets/inter.png" alt="img-fluxo">
+</div>
 
+## [Italo Lacerda](https://github.com/italolacerda) | Rick and Morty
+<div>
+    <img src="./assets/rick.png" alt="img-fluxo">
+</div>
 
-Let's add some sparkle to our code journey! ✨✨✨
+## [Luiz Fellipe](https://github.com/luizfdarv) | The Vampire Diares
+<div>
+    <img src="./assets/50d64aab427ffa9336a6da88192853fb.png" alt="img-fluxo">
+</div>
+
+## [Grégori Nunes](https://github.com/pedohpdo) | Interestellar
+<div>
+    <img src="./assets/gattaca.jpg" alt="img-fluxo">
+</div>
+
+## [Vitor Nunes](https://github.com/italolacerda) | Rick and Morty
+<div>
+    <img src="./assets/images.png" alt="img-fluxo">
+</div>
+
+<p>
+    Let's add some sparkle to our code journey! ✨✨✨
+</p>
