@@ -14,7 +14,7 @@ Segunda Task correspondente ao módulo "Git", promovido pela DBC, onde o objetiv
 Em comum acordo, os membros do grupo optaram por escolher nomes de obras do entretenimento audiovisual de acordo com suas preferências, seguindo esses dados.
 
 ```
-NOME-DO-FILME / IMAGEM / DESCRIÇÃO
+NOME-DO-FILME / IMAGEM 
 ```
 
 ## 👥 **Members**
@@ -24,7 +24,7 @@ NOME-DO-FILME / IMAGEM / DESCRIÇÃO
     <img src="./assets/oppenheimer.jpg" alt="img-fluxo">
 </div>
 
-## [Pedro Pereira](https://github.com/pedohpdo) | Interestellar
+## [Pedro Pereira](https://github.com/pedrohpdo) | Interestellar
 <div>
     <img src="./assets/inter.png" alt="img-fluxo">
 </div>
@@ -34,20 +34,38 @@ NOME-DO-FILME / IMAGEM / DESCRIÇÃO
     <img src="./assets/rick.png" alt="img-fluxo">
 </div>
 
-## [Luiz Fellipe](https://github.com/luizfdarv) | The Vampire Diares
+## [Luiz Fellipe](https://github.com/luizfdarb) | The Vampire Diares
 <div>
     <img src="./assets/50d64aab427ffa9336a6da88192853fb.png" alt="img-fluxo">
 </div>
 
-## [Grégori Nunes](https://github.com/pedohpdo) | Interestellar
+## [Grégori Nunes](https://github.com/gregsnn) | Interestellar
 <div>
     <img src="./assets/gattaca.jpg" alt="img-fluxo">
 </div>
 
-## [Vitor Nunes](https://github.com/italolacerda) | Rick and Morty
+## [Vitor Nunes](https://github.com/VitorColombo) | Rick and Morty
 <div>
     <img src="./assets/images.png" alt="img-fluxo">
 </div>
+
+## Documentation
+
+### Branches
+feat/movie-link - Pedro Bersch
+
+feat/movies-descriptions - Vitor Nunes
+
+feat/movies-images - Grégori Nunes
+
+feat/movie-titles - Italo Lacerda
+
+feat/readme - Pedro Pereira
+
+feat/readme-movie-desciption - Luiz Fellipe
+
+## Commits e features
+English
 
 <p>
     Let's add some sparkle to our code journey! ✨✨✨
