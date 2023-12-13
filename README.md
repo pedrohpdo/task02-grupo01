@@ -24,7 +24,7 @@ NOME-DO-FILME / IMAGEM
     <img src="./assets/oppenheimer.jpg" alt="img-fluxo">
 </div>
 
-## [Pedro Pereira](https://github.com/pedrohpdo) | Interestellar
+## [Pedro Pereira](https://github.com/pedrohpdo) | Interstellar
 <div>
     <img src="./assets/inter.png" alt="img-fluxo">
 </div>
@@ -39,12 +39,12 @@ NOME-DO-FILME / IMAGEM
     <img src="./assets/50d64aab427ffa9336a6da88192853fb.png" alt="img-fluxo">
 </div>
 
-## [Grégori Nunes](https://github.com/gregsnn) | Interestellar
+## [Grégori Nunes](https://github.com/gregsnn) | Gattaca
 <div>
     <img src="./assets/gattaca.jpg" alt="img-fluxo">
 </div>
 
-## [Vitor Nunes](https://github.com/VitorColombo) | Rick and Morty
+## [Vitor Nunes](https://github.com/VitorColombo) | Forrest Gump
 <div>
     <img src="./assets/images.png" alt="img-fluxo">
 </div>
