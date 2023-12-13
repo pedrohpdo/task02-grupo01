@@ -34,7 +34,21 @@ NOME-DO-FILME / IMAGEM / DESCRIÇÃO
     <img src="./assets/rick.png" alt="img-fluxo">
 </div>
 
+## [Luiz Fellipe](https://github.com/luizfdarv) | The Vampire Diares
+<div>
+    <img src="./assets/50d64aab427ffa9336a6da88192853fb.png" alt="img-fluxo">
+</div>
 
+## [Grégori Nunes](https://github.com/pedohpdo) | Interestellar
+<div>
+    <img src="./assets/gattaca.jpg" alt="img-fluxo">
+</div>
 
+## [Vitor Nunes](https://github.com/italolacerda) | Rick and Morty
+<div>
+    <img src="./assets/images.png" alt="img-fluxo">
+</div>
 
-Let's add some sparkle to our code journey! ✨✨✨
+<p>
+    Let's add some sparkle to our code journey! ✨✨✨
+</p>
