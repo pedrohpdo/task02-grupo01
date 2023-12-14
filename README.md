@@ -5,7 +5,7 @@
 
 # 🚀 Grupo 1 - Project Task 02 💡
 <p>
-    <img src="./assets/R.png" alt="img-fluxo">
+    <img src="./assets/readme/R.png" alt="img-fluxo">
 </p>
 
 Segunda Task correspondente ao módulo "Git", promovido pela DBC, onde o objetivo principal é aplicar a dinâmica de trabalho em grupo de forma colaborativa, através do desenvolvimento de exercícios propostos.
@@ -17,56 +17,53 @@ Em comum acordo, os membros do grupo optaram por escolher nomes de obras do entr
 NOME-DO-FILME / IMAGEM 
 ```
 
-## 👥 **Members**
+# Members 👥
 
-## [Pedro Bersch](https://github.com/PedroBersch) | Oppenheimer
+## [Grégori Nunes](https://github.com/gregsnn) | Gattaca
 <div>
-    <img src="./assets/oppenheimer.jpg" alt="img-fluxo">
-</div>
-
-## [Pedro Pereira](https://github.com/pedrohpdo) | Interstellar
-<div>
-    <img src="./assets/inter.png" alt="img-fluxo">
+    <img src="./assets/readme/gattaca.jpg" alt="img-fluxo">
 </div>
 
 ## [Italo Lacerda](https://github.com/italolacerda) | Rick and Morty
 <div>
-    <img src="./assets/rick.png" alt="img-fluxo">
+    <img src="./assets/readme/rick.png" alt="img-fluxo">
 </div>
 
 ## [Luiz Fellipe](https://github.com/luizfdarb) | The Vampire Diares
 <div>
-    <img src="./assets/50d64aab427ffa9336a6da88192853fb.png" alt="img-fluxo">
+    <img src="./assets/readme/tvd2.jpg" alt="img-fluxo">
 </div>
 
-## [Grégori Nunes](https://github.com/gregsnn) | Gattaca
+## [Pedro Bersch](https://github.com/PedroBersch) | Oppenheimer
 <div>
-    <img src="./assets/gattaca.jpg" alt="img-fluxo">
+    <img src="./assets/readme/oppenheimer.jpg" alt="img-fluxo">
+</div>
+
+## [Pedro Pereira](https://github.com/pedrohpdo) | Interstellar
+<div>
+    <img  src="./assets/readme/inter.png" alt="img-fluxo">
 </div>
 
 ## [Vitor Nunes](https://github.com/VitorColombo) | Forrest Gump
 <div>
-    <img src="./assets/images.png" alt="img-fluxo">
+    <img src="./assets/readme/fgump.jpg" alt="img-fluxo">
 </div>
 
-## Documentation
+# Docs 📚
 
-### Branches
-feat/movie-link - Pedro Bersch
+## Branches 🔗
 
-feat/movies-descriptions - Vitor Nunes
+`feat/movies-images` - Grégori Nunes
 
-feat/movies-images - Grégori Nunes
+`feat/movie-titles` - Italo Lacerda
 
-feat/movie-titles - Italo Lacerda
+`feat/readme-movie-desciption` - Luiz Fellipe
 
-feat/readme - Pedro Pereira
+`feat/movie-link` - Pedro Bersch
 
-feat/readme-movie-desciption - Luiz Fellipe
+`feat/readme` - Pedro Pereira
 
-## Commits e features
-English
+`feat/movies-descriptions` - Vitor Nunes
 
-<p>
-    Let's add some sparkle to our code journey! ✨✨✨
-</p>
+## Language 🌍
+**Commits / Branches:** English
